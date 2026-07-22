@@ -35,7 +35,7 @@ pipeline {
             steps{
                 echo 'Seeding database...'
                 sleep(time: 10, unit: 'SECONDS') // Tunggu beberapa detik agar backend siap menerima koneksi
-                bat 'docker exec cinema-be node seed/seed.js' 
+                bat 'docker exec cinema-backend node seed/seed.js' 
             }
         }
 
