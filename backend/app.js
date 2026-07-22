@@ -35,6 +35,14 @@ app.use(cookieParser());
 // Serve static files dari folder uploads
 app.use("/uploads", express.static(uploadsDir));
 
+// Status check endpoint
+app.get('/', (req, res) => {
+    res.json({
+        status: "OK",
+        message: "Cinema Booking API Running"
+    });
+});
+
 app.use("/api/auth", authRoutes);
 app.use("/api/locations", locationRoutes);
 app.use("/api/bioskop", bioskopRoutes);
