@@ -60,3 +60,4 @@ Data contoh berada di `backend/seed/`. Import setiap berkas sebagai **JSON** ke 
 
 Di MongoDB Compass, pilih database `cinema_booking`, buka atau buat koleksi tujuan, lalu pilih **Add Data → Import File**. Berkas seed menggunakan MongoDB Extended JSON, sehingga nilai `{"$oid": "..."}` akan diimpor sebagai ObjectId.
 
+Seed tidak menyertakan data `users`, `bookings`, maupun `transactions`.
