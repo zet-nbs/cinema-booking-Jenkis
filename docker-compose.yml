@@ -10,7 +10,7 @@ services:
 
   backend:
     build: ./backend
-    container_name: 
+    container_name: cinema-be
     restart: unless-stopped
     ports:
       - "5000:5000"
@@ -26,7 +26,7 @@ services:
 
   frontend:
     build: ./frontend/fe-cinemabooking
-    container_name: 
+    container_name: cinema-fe
     restart: unless-stopped
     ports:
       - "80:80"
