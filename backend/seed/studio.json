@@ -1,0 +1,7562 @@
+[
+  {
+    "_id": {
+      "$oid": "64b000000000000000020001"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000101"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020002"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000101"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020003"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000102"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020004"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000102"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020005"
+    },
+    "name": "Studio 1",
+    "studioId": "CKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000103"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020006"
+    },
+    "name": "Studio 2",
+    "studioId": "CKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000103"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020007"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000104"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020008"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000104"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020009"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000105"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020010"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000105"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020011"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000106"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020012"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000106"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020013"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000107"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020014"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000107"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020015"
+    },
+    "name": "Studio 1",
+    "studioId": "YGY-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000108"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020016"
+    },
+    "name": "Studio 2",
+    "studioId": "YGY-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000108"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020017"
+    },
+    "name": "Studio 1",
+    "studioId": "MBN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000109"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020018"
+    },
+    "name": "Studio 2",
+    "studioId": "MBN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000109"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020019"
+    },
+    "name": "Studio 1",
+    "studioId": "MLN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000110"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020020"
+    },
+    "name": "Studio 2",
+    "studioId": "MLN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000110"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020021"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000111"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020022"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000111"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020023"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020024"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020025"
+    },
+    "name": "Studio 1",
+    "studioId": "PNT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000113"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020026"
+    },
+    "name": "Studio 2",
+    "studioId": "PNT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000113"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020027"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000114"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020028"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000114"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020029"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000115"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020030"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000115"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020031"
+    },
+    "name": "Studio 1",
+    "studioId": "PDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000116"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020032"
+    },
+    "name": "Studio 2",
+    "studioId": "PDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000116"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020033"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000117"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020034"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000117"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020035"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000118"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020036"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000118"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020037"
+    },
+    "name": "Studio 1",
+    "studioId": "BTM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000119"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020038"
+    },
+    "name": "Studio 2",
+    "studioId": "BTM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000119"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020039"
+    },
+    "name": "Studio 1",
+    "studioId": "DNP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000120"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020040"
+    },
+    "name": "Studio 2",
+    "studioId": "DNP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000120"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020041"
+    },
+    "name": "Studio 1",
+    "studioId": "BNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000121"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020042"
+    },
+    "name": "Studio 2",
+    "studioId": "BNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000121"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020043"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000122"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020044"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000122"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020045"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000123"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020046"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000123"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020047"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000124"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020048"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000124"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020049"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000125"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020050"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000125"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020051"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000126"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020052"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000126"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020053"
+    },
+    "name": "Studio 1",
+    "studioId": "LMP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000127"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020054"
+    },
+    "name": "Studio 2",
+    "studioId": "LMP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000127"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020055"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000128"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020056"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000128"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020057"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000129"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020058"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000129"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020059"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000130"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020060"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000130"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020061"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000131"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020062"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000131"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020063"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000132"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020064"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000132"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020065"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000133"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020066"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000133"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020067"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000134"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020068"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000134"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020069"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000135"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020070"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000135"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020071"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000136"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020072"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000136"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020073"
+    },
+    "name": "Studio 1",
+    "studioId": "LMP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000137"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020074"
+    },
+    "name": "Studio 2",
+    "studioId": "LMP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000137"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020075"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000138"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020076"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000138"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020077"
+    },
+    "name": "Studio 1",
+    "studioId": "CKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000139"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020078"
+    },
+    "name": "Studio 2",
+    "studioId": "CKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000139"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020079"
+    },
+    "name": "Studio 1",
+    "studioId": "LMP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000140"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020080"
+    },
+    "name": "Studio 2",
+    "studioId": "LMP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000140"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020081"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000141"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020082"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000141"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020083"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000142"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020084"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000142"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020085"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000143"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020086"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000143"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020087"
+    },
+    "name": "Studio 1",
+    "studioId": "CLG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000144"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020088"
+    },
+    "name": "Studio 2",
+    "studioId": "CLG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000144"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020089"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000145"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020090"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000145"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020091"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000146"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020092"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000146"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020093"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000147"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020094"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000147"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020095"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000148"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020096"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000148"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020097"
+    },
+    "name": "Studio 1",
+    "studioId": "CKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000149"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020098"
+    },
+    "name": "Studio 2",
+    "studioId": "CKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000149"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020099"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000150"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020100"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000150"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020101"
+    },
+    "name": "Studio 1",
+    "studioId": "CLG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000151"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020102"
+    },
+    "name": "Studio 2",
+    "studioId": "CLG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000151"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020103"
+    },
+    "name": "Studio 1",
+    "studioId": "CNJ-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000152"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020104"
+    },
+    "name": "Studio 2",
+    "studioId": "CNJ-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000152"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020105"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000153"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020106"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000153"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020107"
+    },
+    "name": "Studio 1",
+    "studioId": "GRT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000154"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020108"
+    },
+    "name": "Studio 2",
+    "studioId": "GRT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000154"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020109"
+    },
+    "name": "Studio 1",
+    "studioId": "KRW-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000155"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020110"
+    },
+    "name": "Studio 2",
+    "studioId": "KRW-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000155"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020111"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000156"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020112"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000156"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020113"
+    },
+    "name": "Studio 1",
+    "studioId": "LMP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000157"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020114"
+    },
+    "name": "Studio 2",
+    "studioId": "LMP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000157"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020115"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000158"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020116"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000158"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020117"
+    },
+    "name": "Studio 1",
+    "studioId": "SDR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000159"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020118"
+    },
+    "name": "Studio 2",
+    "studioId": "SDR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000159"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020119"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000160"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020120"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000160"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020121"
+    },
+    "name": "Studio 1",
+    "studioId": "PKN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000161"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020122"
+    },
+    "name": "Studio 2",
+    "studioId": "PKN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000161"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020123"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000162"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020124"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000162"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020125"
+    },
+    "name": "Studio 1",
+    "studioId": "BNT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000163"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020126"
+    },
+    "name": "Studio 2",
+    "studioId": "BNT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000163"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020127"
+    },
+    "name": "Studio 1",
+    "studioId": "CNJ-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000164"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020128"
+    },
+    "name": "Studio 2",
+    "studioId": "CNJ-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000164"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020129"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000165"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020130"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000165"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020131"
+    },
+    "name": "Studio 1",
+    "studioId": "DUM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000166"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020132"
+    },
+    "name": "Studio 2",
+    "studioId": "DUM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000166"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020133"
+    },
+    "name": "Studio 1",
+    "studioId": "GRT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000167"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020134"
+    },
+    "name": "Studio 2",
+    "studioId": "GRT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000167"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020135"
+    },
+    "name": "Studio 1",
+    "studioId": "KLK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000168"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020136"
+    },
+    "name": "Studio 2",
+    "studioId": "KLK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000168"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020137"
+    },
+    "name": "Studio 1",
+    "studioId": "TBN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000169"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020138"
+    },
+    "name": "Studio 2",
+    "studioId": "TBN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000169"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020139"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000170"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020140"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000170"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020141"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000171"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020142"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000171"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020143"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000172"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020144"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000172"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020145"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000173"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020146"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000173"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020147"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000174"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020148"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000174"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020149"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000175"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020150"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000175"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020151"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000176"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020152"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000176"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020153"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000177"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020154"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000177"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020155"
+    },
+    "name": "Studio 1",
+    "studioId": "CRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000178"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020156"
+    },
+    "name": "Studio 2",
+    "studioId": "CRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000178"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020157"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000179"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020158"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000179"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020159"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000180"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020160"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000180"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020161"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000181"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020162"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000181"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020163"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000182"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020164"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000182"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020165"
+    },
+    "name": "Studio 1",
+    "studioId": "TMK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000183"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020166"
+    },
+    "name": "Studio 2",
+    "studioId": "TMK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000183"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020167"
+    },
+    "name": "Studio 1",
+    "studioId": "MLN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000184"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020168"
+    },
+    "name": "Studio 2",
+    "studioId": "MLN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000184"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020169"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000185"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020170"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000185"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020171"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000186"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020172"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000186"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020173"
+    },
+    "name": "Studio 1",
+    "studioId": "PLN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000187"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020174"
+    },
+    "name": "Studio 2",
+    "studioId": "PLN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000187"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020175"
+    },
+    "name": "Studio 1",
+    "studioId": "BLK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000188"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020176"
+    },
+    "name": "Studio 2",
+    "studioId": "BLK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000188"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020177"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000189"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020178"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000189"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020179"
+    },
+    "name": "Studio 1",
+    "studioId": "YGY-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000190"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020180"
+    },
+    "name": "Studio 2",
+    "studioId": "YGY-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000190"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020181"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000191"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020182"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000191"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020183"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000192"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020184"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000192"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020185"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000193"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020186"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000193"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020187"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000194"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020188"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000194"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020189"
+    },
+    "name": "Studio 1",
+    "studioId": "PNT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000195"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020190"
+    },
+    "name": "Studio 2",
+    "studioId": "PNT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000195"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020191"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000196"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020192"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000196"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020193"
+    },
+    "name": "Studio 1",
+    "studioId": "DNP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000197"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020194"
+    },
+    "name": "Studio 2",
+    "studioId": "DNP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000197"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020195"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000198"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020196"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000198"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020197"
+    },
+    "name": "Studio 1",
+    "studioId": "GRN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000199"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020198"
+    },
+    "name": "Studio 2",
+    "studioId": "GRN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000199"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020199"
+    },
+    "name": "Studio 1",
+    "studioId": "CRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000200"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020200"
+    },
+    "name": "Studio 2",
+    "studioId": "CRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000200"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020201"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000201"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020202"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000201"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020203"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000202"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020204"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000202"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020205"
+    },
+    "name": "Studio 1",
+    "studioId": "PAL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000203"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020206"
+    },
+    "name": "Studio 2",
+    "studioId": "PAL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000203"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020207"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000204"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020208"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000204"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020209"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000205"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020210"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000205"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020211"
+    },
+    "name": "Studio 1",
+    "studioId": "TRK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000206"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020212"
+    },
+    "name": "Studio 2",
+    "studioId": "TRK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000206"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020213"
+    },
+    "name": "Studio 1",
+    "studioId": "SOL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000207"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020214"
+    },
+    "name": "Studio 2",
+    "studioId": "SOL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000207"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020215"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000208"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020216"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000208"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020217"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000209"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020218"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000209"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020219"
+    },
+    "name": "Studio 1",
+    "studioId": "GRS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000210"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020220"
+    },
+    "name": "Studio 2",
+    "studioId": "GRS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000210"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020221"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000211"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020222"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000211"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020223"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000212"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020224"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000212"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020225"
+    },
+    "name": "Studio 1",
+    "studioId": "DNP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000213"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020226"
+    },
+    "name": "Studio 2",
+    "studioId": "DNP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000213"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020227"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000214"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020228"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000214"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020229"
+    },
+    "name": "Studio 1",
+    "studioId": "PLM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000215"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020230"
+    },
+    "name": "Studio 2",
+    "studioId": "PLM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000215"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020231"
+    },
+    "name": "Studio 1",
+    "studioId": "KSR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000216"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020232"
+    },
+    "name": "Studio 2",
+    "studioId": "KSR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000216"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020233"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000217"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020234"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000217"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020235"
+    },
+    "name": "Studio 1",
+    "studioId": "JMB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000218"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020236"
+    },
+    "name": "Studio 2",
+    "studioId": "JMB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000218"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020237"
+    },
+    "name": "Studio 1",
+    "studioId": "TRN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000219"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020238"
+    },
+    "name": "Studio 2",
+    "studioId": "TRN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000219"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020239"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000220"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020240"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000220"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020241"
+    },
+    "name": "Studio 1",
+    "studioId": "JYP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000221"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020242"
+    },
+    "name": "Studio 2",
+    "studioId": "JYP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000221"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020243"
+    },
+    "name": "Studio 1",
+    "studioId": "YGY-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000222"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020244"
+    },
+    "name": "Studio 2",
+    "studioId": "YGY-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000222"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020245"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020246"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020247"
+    },
+    "name": "Studio 1",
+    "studioId": "KDR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000224"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020248"
+    },
+    "name": "Studio 2",
+    "studioId": "KDR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000224"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020249"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000225"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020250"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000225"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020251"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000226"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020252"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000226"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020253"
+    },
+    "name": "Studio 1",
+    "studioId": "KLT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000227"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020254"
+    },
+    "name": "Studio 2",
+    "studioId": "KLT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000227"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020255"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000228"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020256"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000228"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020257"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000229"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020258"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000229"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020259"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000230"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020260"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000230"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020261"
+    },
+    "name": "Studio 1",
+    "studioId": "LMP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000231"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020262"
+    },
+    "name": "Studio 2",
+    "studioId": "LMP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000231"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020263"
+    },
+    "name": "Studio 1",
+    "studioId": "MTR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000232"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020264"
+    },
+    "name": "Studio 2",
+    "studioId": "MTR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000232"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020265"
+    },
+    "name": "Studio 1",
+    "studioId": "DNP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000233"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020266"
+    },
+    "name": "Studio 2",
+    "studioId": "DNP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000233"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020267"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000234"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020268"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000234"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020269"
+    },
+    "name": "Studio 1",
+    "studioId": "DNP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000235"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020270"
+    },
+    "name": "Studio 2",
+    "studioId": "DNP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000235"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020271"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000236"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020272"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000236"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020273"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000237"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020274"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000237"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020275"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000238"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020276"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000238"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020277"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000239"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020278"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000239"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020279"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000240"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020280"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000240"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020281"
+    },
+    "name": "Studio 1",
+    "studioId": "MKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000241"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020282"
+    },
+    "name": "Studio 2",
+    "studioId": "MKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000241"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020283"
+    },
+    "name": "Studio 1",
+    "studioId": "MMJ-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000242"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020284"
+    },
+    "name": "Studio 2",
+    "studioId": "MMJ-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000242"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020285"
+    },
+    "name": "Studio 1",
+    "studioId": "LMP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000243"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020286"
+    },
+    "name": "Studio 2",
+    "studioId": "LMP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000243"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020287"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000244"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020288"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000244"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020289"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000245"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020290"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000245"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020291"
+    },
+    "name": "Studio 1",
+    "studioId": "NDR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000246"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020292"
+    },
+    "name": "Studio 2",
+    "studioId": "NDR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000246"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020293"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000247"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020294"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000247"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020295"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000248"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020296"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000248"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020297"
+    },
+    "name": "Studio 1",
+    "studioId": "MNK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000249"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020298"
+    },
+    "name": "Studio 2",
+    "studioId": "MNK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000249"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020299"
+    },
+    "name": "Studio 1",
+    "studioId": "MND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000250"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020300"
+    },
+    "name": "Studio 2",
+    "studioId": "MND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000250"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020301"
+    },
+    "name": "Studio 1",
+    "studioId": "MND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000251"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020302"
+    },
+    "name": "Studio 2",
+    "studioId": "MND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000251"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020303"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000252"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020304"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000252"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020305"
+    },
+    "name": "Studio 1",
+    "studioId": "BNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000253"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020306"
+    },
+    "name": "Studio 2",
+    "studioId": "BNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000253"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020307"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000254"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020308"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000254"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020309"
+    },
+    "name": "Studio 1",
+    "studioId": "MND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000255"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020310"
+    },
+    "name": "Studio 2",
+    "studioId": "MND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000255"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020311"
+    },
+    "name": "Studio 1",
+    "studioId": "BTM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000256"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020312"
+    },
+    "name": "Studio 2",
+    "studioId": "BTM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000256"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020313"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000257"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020314"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000257"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020315"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000258"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020316"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000258"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020317"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000259"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020318"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000259"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020319"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000260"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020320"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000260"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020321"
+    },
+    "name": "Studio 1",
+    "studioId": "BTM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000261"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020322"
+    },
+    "name": "Studio 2",
+    "studioId": "BTM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000261"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020323"
+    },
+    "name": "Studio 1",
+    "studioId": "MKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000262"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020324"
+    },
+    "name": "Studio 2",
+    "studioId": "MKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000262"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020325"
+    },
+    "name": "Studio 1",
+    "studioId": "BTM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000263"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020326"
+    },
+    "name": "Studio 2",
+    "studioId": "BTM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000263"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020327"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000264"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020328"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000264"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020329"
+    },
+    "name": "Studio 1",
+    "studioId": "PLM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000265"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020330"
+    },
+    "name": "Studio 2",
+    "studioId": "PLM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000265"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020331"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000266"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020332"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000266"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020333"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000267"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020334"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000267"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020335"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000268"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020336"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000268"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020337"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000269"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020338"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000269"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020339"
+    },
+    "name": "Studio 1",
+    "studioId": "PLM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000270"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020340"
+    },
+    "name": "Studio 2",
+    "studioId": "PLM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000270"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020341"
+    },
+    "name": "Studio 1",
+    "studioId": "PLN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000271"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020342"
+    },
+    "name": "Studio 2",
+    "studioId": "PLN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000271"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020343"
+    },
+    "name": "Studio 1",
+    "studioId": "MKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000272"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020344"
+    },
+    "name": "Studio 2",
+    "studioId": "MKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000272"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020345"
+    },
+    "name": "Studio 1",
+    "studioId": "MKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000273"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020346"
+    },
+    "name": "Studio 2",
+    "studioId": "MKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000273"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020347"
+    },
+    "name": "Studio 1",
+    "studioId": "BTM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000274"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020348"
+    },
+    "name": "Studio 2",
+    "studioId": "BTM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000274"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020349"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000275"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020350"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000275"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020351"
+    },
+    "name": "Studio 1",
+    "studioId": "DNP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000276"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020352"
+    },
+    "name": "Studio 2",
+    "studioId": "DNP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000276"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020353"
+    },
+    "name": "Studio 1",
+    "studioId": "PKL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000277"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020354"
+    },
+    "name": "Studio 2",
+    "studioId": "PKL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000277"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020355"
+    },
+    "name": "Studio 1",
+    "studioId": "PKN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000278"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020356"
+    },
+    "name": "Studio 2",
+    "studioId": "PKN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000278"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020357"
+    },
+    "name": "Studio 1",
+    "studioId": "BLK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000279"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020358"
+    },
+    "name": "Studio 2",
+    "studioId": "BLK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000279"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020359"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000280"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020360"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000280"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020361"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000281"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020362"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000281"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020363"
+    },
+    "name": "Studio 1",
+    "studioId": "PLM-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000282"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020364"
+    },
+    "name": "Studio 2",
+    "studioId": "PLM-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000282"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020365"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000283"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020366"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000283"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020367"
+    },
+    "name": "Studio 1",
+    "studioId": "PDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000284"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020368"
+    },
+    "name": "Studio 2",
+    "studioId": "PDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000284"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020369"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000285"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020370"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000285"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020371"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000286"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020372"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000286"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020373"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000287"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020374"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000287"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020375"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000288"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020376"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000288"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020377"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000289"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020378"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000289"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020379"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000290"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020380"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000290"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020381"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000291"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020382"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000291"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020383"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000292"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020384"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000292"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020385"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000293"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020386"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000293"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020387"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000294"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020388"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000294"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020389"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000295"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020390"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000295"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020391"
+    },
+    "name": "Studio 1",
+    "studioId": "CRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000296"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020392"
+    },
+    "name": "Studio 2",
+    "studioId": "CRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000296"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020393"
+    },
+    "name": "Studio 1",
+    "studioId": "BGR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000297"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020394"
+    },
+    "name": "Studio 2",
+    "studioId": "BGR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000297"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020395"
+    },
+    "name": "Studio 1",
+    "studioId": "KRW-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000298"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020396"
+    },
+    "name": "Studio 2",
+    "studioId": "KRW-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000298"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020397"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000299"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020398"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000299"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020399"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000300"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020400"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000300"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020401"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000301"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020402"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000301"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020403"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000302"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020404"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000302"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020405"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000303"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020406"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000303"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020407"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000304"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020408"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000304"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020409"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000305"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020410"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000305"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020411"
+    },
+    "name": "Studio 1",
+    "studioId": "CKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000306"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020412"
+    },
+    "name": "Studio 2",
+    "studioId": "CKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000306"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020413"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000307"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020414"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000307"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020415"
+    },
+    "name": "Studio 1",
+    "studioId": "SNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000308"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020416"
+    },
+    "name": "Studio 2",
+    "studioId": "SNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000308"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020417"
+    },
+    "name": "Studio 1",
+    "studioId": "PKN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000309"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020418"
+    },
+    "name": "Studio 2",
+    "studioId": "PKN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000309"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020419"
+    },
+    "name": "Studio 1",
+    "studioId": "YGY-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020420"
+    },
+    "name": "Studio 2",
+    "studioId": "YGY-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020421"
+    },
+    "name": "Studio 1",
+    "studioId": "SOL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020422"
+    },
+    "name": "Studio 2",
+    "studioId": "SOL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020423"
+    },
+    "name": "Studio 1",
+    "studioId": "SOL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020424"
+    },
+    "name": "Studio 2",
+    "studioId": "SOL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020425"
+    },
+    "name": "Studio 1",
+    "studioId": "SRN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020426"
+    },
+    "name": "Studio 2",
+    "studioId": "SRN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020427"
+    },
+    "name": "Studio 1",
+    "studioId": "MKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000314"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020428"
+    },
+    "name": "Studio 2",
+    "studioId": "MKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000314"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020429"
+    },
+    "name": "Studio 1",
+    "studioId": "BNJ-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000315"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020430"
+    },
+    "name": "Studio 2",
+    "studioId": "BNJ-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000315"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020431"
+    },
+    "name": "Studio 1",
+    "studioId": "BLK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000316"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020432"
+    },
+    "name": "Studio 2",
+    "studioId": "BLK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000316"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020433"
+    },
+    "name": "Studio 1",
+    "studioId": "PKN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000317"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020434"
+    },
+    "name": "Studio 2",
+    "studioId": "PKN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000317"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020435"
+    },
+    "name": "Studio 1",
+    "studioId": "SMD-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000318"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020436"
+    },
+    "name": "Studio 2",
+    "studioId": "SMD-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000318"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020437"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000319"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020438"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000319"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020439"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000320"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020440"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000320"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020441"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020442"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020443"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000322"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020444"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000322"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020445"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000323"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020446"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000323"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020447"
+    },
+    "name": "Studio 1",
+    "studioId": "RKN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000324"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020448"
+    },
+    "name": "Studio 2",
+    "studioId": "RKN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000324"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020449"
+    },
+    "name": "Studio 1",
+    "studioId": "PMT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000325"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020450"
+    },
+    "name": "Studio 2",
+    "studioId": "PMT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000325"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020451"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000326"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020452"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000326"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020453"
+    },
+    "name": "Studio 1",
+    "studioId": "RNT-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000327"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020454"
+    },
+    "name": "Studio 2",
+    "studioId": "RNT-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000327"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020455"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000328"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020456"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000328"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020457"
+    },
+    "name": "Studio 1",
+    "studioId": "JKR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000329"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020458"
+    },
+    "name": "Studio 2",
+    "studioId": "JKR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000329"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020459"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020460"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020461"
+    },
+    "name": "Studio 1",
+    "studioId": "TSK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000331"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020462"
+    },
+    "name": "Studio 2",
+    "studioId": "TSK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000331"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020463"
+    },
+    "name": "Studio 1",
+    "studioId": "TNJ-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000332"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020464"
+    },
+    "name": "Studio 2",
+    "studioId": "TNJ-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000332"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020465"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000333"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020466"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000333"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020467"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000334"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020468"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000334"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020469"
+    },
+    "name": "Studio 1",
+    "studioId": "MDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000335"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020470"
+    },
+    "name": "Studio 2",
+    "studioId": "MDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000335"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020471"
+    },
+    "name": "Studio 1",
+    "studioId": "MGL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000336"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020472"
+    },
+    "name": "Studio 2",
+    "studioId": "MGL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000336"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020473"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000337"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020474"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000337"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020475"
+    },
+    "name": "Studio 1",
+    "studioId": "KND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000338"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020476"
+    },
+    "name": "Studio 2",
+    "studioId": "KND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000338"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020477"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000339"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020478"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000339"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020479"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000340"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020480"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000340"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020481"
+    },
+    "name": "Studio 1",
+    "studioId": "SOL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000341"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020482"
+    },
+    "name": "Studio 2",
+    "studioId": "SOL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000341"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020483"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000342"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020484"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000342"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020485"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000343"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020486"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000343"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020487"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000344"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020488"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000344"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020489"
+    },
+    "name": "Studio 1",
+    "studioId": "CLG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020490"
+    },
+    "name": "Studio 2",
+    "studioId": "CLG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020491"
+    },
+    "name": "Studio 1",
+    "studioId": "JMB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000346"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020492"
+    },
+    "name": "Studio 2",
+    "studioId": "JMB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000346"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020493"
+    },
+    "name": "Studio 1",
+    "studioId": "JMB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000347"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020494"
+    },
+    "name": "Studio 2",
+    "studioId": "JMB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000347"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020495"
+    },
+    "name": "Studio 1",
+    "studioId": "KPN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000348"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020496"
+    },
+    "name": "Studio 2",
+    "studioId": "KPN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000348"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020497"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000349"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020498"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000349"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020499"
+    },
+    "name": "Studio 1",
+    "studioId": "MLN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000350"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020500"
+    },
+    "name": "Studio 2",
+    "studioId": "MLN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000350"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020501"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000351"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020502"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000351"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020503"
+    },
+    "name": "Studio 1",
+    "studioId": "PDN-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000352"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020504"
+    },
+    "name": "Studio 2",
+    "studioId": "PDN-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000352"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020505"
+    },
+    "name": "Studio 1",
+    "studioId": "PNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000353"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020506"
+    },
+    "name": "Studio 2",
+    "studioId": "PNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000353"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020507"
+    },
+    "name": "Studio 1",
+    "studioId": "PKL-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000354"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020508"
+    },
+    "name": "Studio 2",
+    "studioId": "PKL-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000354"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020509"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000355"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020510"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000355"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020511"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000356"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020512"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000356"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020513"
+    },
+    "name": "Studio 1",
+    "studioId": "SDR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000357"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020514"
+    },
+    "name": "Studio 2",
+    "studioId": "SDR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000357"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020515"
+    },
+    "name": "Studio 1",
+    "studioId": "TSK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000358"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020516"
+    },
+    "name": "Studio 2",
+    "studioId": "TSK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000358"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020517"
+    },
+    "name": "Studio 1",
+    "studioId": "TNG-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000359"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020518"
+    },
+    "name": "Studio 2",
+    "studioId": "TNG-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000359"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020519"
+    },
+    "name": "Studio 1",
+    "studioId": "BKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000360"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020520"
+    },
+    "name": "Studio 2",
+    "studioId": "BKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000360"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020521"
+    },
+    "name": "Studio 1",
+    "studioId": "DNP-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000361"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020522"
+    },
+    "name": "Studio 2",
+    "studioId": "DNP-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000361"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020523"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000362"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020524"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000362"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020525"
+    },
+    "name": "Studio 1",
+    "studioId": "MKS-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000363"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020526"
+    },
+    "name": "Studio 2",
+    "studioId": "MKS-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000363"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020527"
+    },
+    "name": "Studio 1",
+    "studioId": "DPK-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000364"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020528"
+    },
+    "name": "Studio 2",
+    "studioId": "DPK-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000364"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020529"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000365"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020530"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000365"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020531"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000366"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020532"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000366"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020533"
+    },
+    "name": "Studio 1",
+    "studioId": "SRB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000367"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020534"
+    },
+    "name": "Studio 2",
+    "studioId": "SRB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000367"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020535"
+    },
+    "name": "Studio 1",
+    "studioId": "BND-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000368"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020536"
+    },
+    "name": "Studio 2",
+    "studioId": "BND-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000368"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020537"
+    },
+    "name": "Studio 1",
+    "studioId": "SMR-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000369"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020538"
+    },
+    "name": "Studio 2",
+    "studioId": "SMR-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000369"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020539"
+    },
+    "name": "Studio 1",
+    "studioId": "JMB-STD-01",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000370"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64b000000000000000020540"
+    },
+    "name": "Studio 2",
+    "studioId": "JMB-STD-02",
+    "totalSeats": 12,
+    "rows": 3,
+    "seatsPerRow": 4,
+    "status": "active",
+    "cinema": {
+      "$oid": "64b000000000000000000370"
+    }
+  }
+]
