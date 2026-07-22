@@ -31,6 +31,14 @@ pipeline {
             }
         }
 
+        stage('Seed Database'){
+            steps{
+                echo 'Seeding database...'
+                sleep(time: 10, unit: 'SECONDS') // Tunggu beberapa detik agar backend siap menerima koneksi
+                bat 'docker exec cinema-be node seed/seed.js' 
+            }
+        }
+
         stage('Cleanup') {
             steps {
                 echo 'Cleaning up dangling images...'
