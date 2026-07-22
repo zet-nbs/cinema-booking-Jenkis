@@ -9,8 +9,8 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone repo private menggunakan credential github-pat (username/password)
-                git branch: 'Jenkis',
-                    url: 'https://github.com/RefaMuhammad/cinema-booking.git',
+                git branch: 'main',
+                    url: 'https://github.com/zet-nbs/cinema-booking-Jenkis.git',
                     credentialsId: 'github-pat'
             }
         }
