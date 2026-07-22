@@ -44,4 +44,10 @@ export const adminService = {
     if (!data.success) throw new Error(data.message || 'Gagal memuat laporan');
     return data.data;
   },
+
+  async seedDatabase() {
+    const { data } = await api.post('/admin/seed');
+    if (!data.success) throw new Error(data.message || 'Gagal melakukan seeding');
+    return data;
+  },
 };

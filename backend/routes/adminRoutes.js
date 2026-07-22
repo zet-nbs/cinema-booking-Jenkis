@@ -8,6 +8,20 @@ const { protect, requireAdmin } = require("../middleware/authMiddleware");
 
 router.get("/dashboard", protect, requireAdmin, adminController.getDashboard);
 
+router.post("/seed", protect, requireAdmin, (req, res) => {
+  const { exec } = require("child_process");
+  const path = require("path");
+  
+  exec(`node ${path.join(__dirname, "..", "seed", "seed.js")}`, (error, stdout, stderr) => {
+    if (error) {
+      console.error(`Error executing seed: ${error}`);
+      return res.status(500).json({ success: false, message: "Seeding failed", error: error.message });
+    }
+    console.log(`Seed output: ${stdout}`);
+    res.json({ success: true, message: "Database successfully seeded", stdout });
+  });
+});
+
 router.get(
   "/booking",
   protect,

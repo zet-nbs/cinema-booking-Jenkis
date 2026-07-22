@@ -3,8 +3,11 @@ import { Film, Building, Calendar, Users, TrendingUp } from 'lucide-react';
 import LoadingSpinner from '@/components/LoadingSpinner';
 import { useNavigate } from 'react-router-dom';
 import { adminService } from '@/services/adminService';
+import toast from 'react-hot-toast';
+
 export default function AdminDashboardPage() {
     const navigate = useNavigate();
+    const [seeding, setSeeding] = useState(false);
     const [stats, setStats] = useState({
         totalMovies: 0,
         totalHalls: 0,
@@ -28,6 +31,19 @@ export default function AdminDashboardPage() {
         }
         finally {
             setLoading(false);
+        }
+    };
+    const handleSeedDatabase = async () => {
+        if (!window.confirm("Apakah Anda yakin ingin memuat ulang database dengan data awal? Semua data transaksi dan booking saat ini akan dihapus!")) return;
+        setSeeding(true);
+        try {
+            await adminService.seedDatabase();
+            toast.success("Database berhasil dimuat dengan data awal!");
+            await fetchDashboardStats();
+        } catch (error) {
+            toast.error(error.message || "Gagal memuat database awal");
+        } finally {
+            setSeeding(false);
         }
     };
     if (loading) {
@@ -128,6 +144,9 @@ export default function AdminDashboardPage() {
             </button>
             <button onClick={() => navigate('/admin/reports?openModal=true')} className="btn btn-secondary w-full text-left">
               View Reports
+            </button>
+            <button onClick={handleSeedDatabase} disabled={seeding} className="btn btn-accent w-full text-left">
+              {seeding ? "Seeding Database..." : "Seed Database"}
             </button>
           </div>
         </div>
