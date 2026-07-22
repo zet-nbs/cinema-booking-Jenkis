@@ -1,9 +1,12 @@
 const mongoose = require("mongoose");
+const autoSeed = require("./autoSeed");
 
 const connectDB = async () => {
   try {
     await mongoose.connect(process.env.MONGO_URI);
     console.log("MongoDB berhasil terkoneksi!");
+    // Jalankan auto-seed jika database kosong
+    await autoSeed();
   } catch (error) {
     console.error("Koneksi MongoDB gagal:", error.message);
     process.exit(1);
